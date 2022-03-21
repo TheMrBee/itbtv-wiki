@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'Gilroy Bold';
+  font-style: normal;
+  src: url(https://github.com/TheMrBee/itbtv-wiki/blob/main/gilroy-bold.ttf) format('ttf');
+}
 /* Gilroy Medium */
 @font-face {
   font-family: 'Gilroy Medium';
@@ -5,8 +10,4 @@
   src: url(https://github.com/TheMrBee/itbtv-wiki/blob/main/gilroy-medium.ttf) format('ttf');
 }
 /* Gilroy Bold */
-@font-face {
-  font-family: 'Gilroy Bold';
-  font-style: normal;
-  src: url(https://github.com/TheMrBee/itbtv-wiki/blob/main/gilroy-bold.ttf) format('ttf');
-}
+
