@@ -1,15 +1,15 @@
 @font-face {
-    font-family: 'gilroybold';
-    src: url('gilroy-bold-webfont.woff2') format('woff2'),
-         url('gilroy-bold-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
+    font-family: 'Gilroy-Bold';
+    src: url('src/Gilroy/gilroy-bold-webfont.woff2') format('woff2'),
+        url('src/Gilroy/gilroy-bold-webfont.woff') format('woff');
+    font-weight: 500;
+    font-style: bold;
+    font-display: swap;
 }
 @font-face {
-    font-family: 'gilroymedium';
-    src: url('gilroy-medium-webfont.woff2') format('woff2'),
-         url('gilroy-medium-webfont.woff') format('woff');
+    font-family: 'Gilroy-Bold';
+    src: url('src/Gilroy/gilroy-medium-webfont.woff2') format('woff2'),
+         url('src/Gilroy/gilroy-medium-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
