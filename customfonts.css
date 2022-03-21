@@ -1,0 +1,14 @@
+/* Gilroy Medium */
+@font-face {
+  font-family: 'Gilroy Medium';
+  font-style: normal;
+  src: url(https://drive.google.com/file/d/1LW89RoZ5Q4jR0N6tWalFpg13q3YaqFZP/view?usp=sharing) format('otf');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* Gilroy Bold */
+@font-face {
+  font-family: 'Gilroy Bold';
+  font-style: normal;
+  src: url(https://drive.google.com/file/d/14HtkGb2mjwqTkpJX5BLm4HiWjwWLc3Xf/view?usp=sharing) format('otf');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
