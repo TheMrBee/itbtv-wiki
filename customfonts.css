@@ -1,16 +1,16 @@
-/* Gilroy Medium */
 @font-face {
-	font-family: 'Gilroy-Medium';
-	src: url('Gilroy-Medium.ttf');
-	src: local('Gilroy Medium'), local('Gilroy-Medium'),
-		url('Gilroy-Medium.ttf') format('truetype');
-	font-weight: normal;
+    font-family: 'gilroybold';
+    src: url('gilroy-bold-webfont.woff2') format('woff2'),
+         url('gilroy-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
-/* Gilroy Bold */
 @font-face {
-	font-family: 'Gilroy-Bold';
-	src: url('Gilroy-Bold.ttf');
-	src: local('Gilroy Bold'), local('Gilroy-Bold'),
-		url('Gilroy-Bold.ttf') format('truetype');
-	font-weight: bold;
+    font-family: 'gilroymedium';
+    src: url('gilroy-medium-webfont.woff2') format('woff2'),
+         url('gilroy-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
