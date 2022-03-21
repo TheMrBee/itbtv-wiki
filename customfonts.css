@@ -2,11 +2,11 @@
 @font-face {
   font-family: 'Gilroy Medium';
   font-style: normal;
-  src: url(https://github.com/TheMrBee/itbtv-wiki/blob/main/gilroy-medium.otf) format('otf');
+  src: url(https://github.com/TheMrBee/itbtv-wiki/blob/main/gilroy-medium.ttf) format('ttf');
 }
 /* Gilroy Bold */
 @font-face {
   font-family: 'Gilroy Bold';
   font-style: normal;
-  src: url(https://github.com/TheMrBee/itbtv-wiki/blob/main/gilroy-bold.otf) format('otf');
+  src: url(https://github.com/TheMrBee/itbtv-wiki/blob/main/gilroy-bold.ttf) format('ttf');
 }
